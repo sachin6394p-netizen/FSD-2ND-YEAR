@@ -1,0 +1,14 @@
+{
+  "name": "express_html",
+  "version": "1.0.0",
+  "description": "Portfolio website using HTML, CSS and Express",
+  "license": "ISC",
+  "author": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
